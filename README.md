@@ -6,7 +6,7 @@
 
 - **Discourse Analysis & SFL**: Analysing ideological positioning in political and educational text through Hallidayan frameworks
 - **Literacy Studies**: Graduate coursework in linguistics and literacy (LING 440)
-- **Critical Theory**: Marxist theory, ideology, and the political economy of language
+- **Critical Theory**: Dialectical Historical Materialist theory, ideology, and the political economy of language
 
 ### Engineering
 
