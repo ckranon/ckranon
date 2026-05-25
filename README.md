@@ -21,7 +21,6 @@ I build tools that make research sustainable:
 
 ### Current Work
 
-- Organising the **Albazi Symposium 2027**
 - Building **Retrieval-Augmented Generation** pipelines for CPU-only environments (100k+ documents)
 - Graduate coursework in **semantics, syntax, and discourse analysis**
 - TESOL practice and tutor training through Literacy Works
