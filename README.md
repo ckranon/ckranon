@@ -31,5 +31,3 @@ I build tools that make research sustainable:
 - Open to collaboration on linguistics tooling, SFL-based analysis pipelines, and reproducible research infrastructure
 
 ---
-
-*普通话语文学 (Pǔtōnghuà Yǔwénxué — "Mandarin Philology")*
